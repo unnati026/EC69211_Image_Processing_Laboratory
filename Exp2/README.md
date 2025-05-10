@@ -12,9 +12,10 @@ This experiment involves the implementation of Python functions to read, write, 
 ```
 
 .
-├── Exp2_21EC39027.py              # Python script with BMP operations
-├── Exp2_21EC39027.ipynb           # Jupyter Notebook version of the same code
-├── Exp2_21EC39027_report.pdf     # Experiment report with objective, methodology, results, and conclusion
+├── Exp2_21EC39027.py               # Python script with BMP operations
+├── Exp2_21EC39027.ipynb            # Jupyter Notebook version of the same code
+├── Exp2_21EC39027_report.pdf       # Experiment report with objective, methodology, results, and conclusion
+├── Experiment 2.pdf                # Problem statement
 ├── Input Images/                   # Directory containing input BMP images
 ├── Output Images/                  # Directory containing output images
 └── README.md                       # This README file
