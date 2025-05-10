@@ -1,5 +1,3 @@
-# IMAGE AND VIDEO PROCESSING LABORATORY (EC69211) – AUTUMN 2024
-
 ## Experiment 1: Image Scaling and Rotation Using Nearest Neighbour and Bilinear Interpolation
 
 **Submitted by:** Unnati Singh (21EC39027)
