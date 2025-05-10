@@ -1,7 +1,5 @@
 ## Experiment 1: Image Scaling and Rotation Using Nearest Neighbour and Bilinear Interpolation
 
-**Submitted by:** Unnati Singh (21EC39027)
-
 ---
 
 ## Objective
