@@ -30,7 +30,7 @@ To develop a Python program that reads an image and performs image scaling and r
 
 ```
 .
-├── experiment1\_iplab.py                # Main code for scaling and rotating images
+├── experiment1_iplab.py                # Main code for scaling and rotating images
 ├── Input Image/
 │   └── cameraman.bmp                   # Input image used for testing
 ├── Output Images/
