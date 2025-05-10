@@ -18,7 +18,7 @@ This experiment involves the implementation of Python functions to read, write, 
 ├── Input Images/                   # Directory containing input BMP images
 ├── Output Images/                  # Directory containing output images
 ├── README.pdf                      # README file (PDF version)
-└── README.MD                       # This README file
+└── README.md                       # This README file
 
 ```
 
