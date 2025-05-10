@@ -34,7 +34,8 @@ To develop a Python program that reads an image and performs image scaling and r
 ├── Output Images/
 │   ├── Scaling/                        # Directory to save scaled images
 │   └── Rotation/                       # Directory to save rotated images
-└── README.pdf                          # This README file
+├── README.pdf                          # README file (PDF version)
+└── README.md                           # This README file
 
 ```
 
